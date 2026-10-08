@@ -913,7 +913,7 @@ export default function App() {
             >
               <div className="aspect-[4/5] md:aspect-square w-full max-w-full rounded-3xl overflow-hidden shadow-xl relative border border-gray-100/90 bg-gray-100">
                 <img 
-                  src="/assets/images/sec.jpeg" 
+                  src="/assets/images/2.jpeg" 
                   alt="Sarthak Bordia" 
                   className="w-full h-full object-cover object-[center_20%]"
                   referrerPolicy="no-referrer"
